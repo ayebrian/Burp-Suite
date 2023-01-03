@@ -1,5 +1,5 @@
-
-
+--------------------------------------------------------------------------------------------
+# ⚠️ Warning: This doesn't work after release of Burp Suite 2022.8.5
 --------------------------------------------------------------------------------------------
 # Burp Suite Professional Installation steps for Windows
 	--> Open Powershell and execute below command to set Script Execution Policy.
